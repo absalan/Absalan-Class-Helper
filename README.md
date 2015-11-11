@@ -6,7 +6,7 @@ To DO
 
 ###Instance methods
 
-* <a href="#api-get"><code>class().<b>ajax()</b></code></a>
+* <a href="#api-ajax"><code>class().<b>ajax()</b></code></a>
 * <a href="#api-get"><code>class().<b>get()</b></code></a>
 * <a href="#api-each"><code>class().<b>each()</b></code></a>
 * <a href="#api-deepEach"><code>class().<b>deepEach()</b></code></a>
